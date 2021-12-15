@@ -13,9 +13,9 @@
 # Setup
 
 1. Open C:/Windows/System32/drivers/etc/hosts
-2. Add line "IP(default - localhost) s.optifine.net"
-3. Save and close
-4. Now open game
+2. Paste "IP(default - localhost) s.optifine.net" in a new line
+3. Save and exit
+4. Now open the game
 
 **You can change ip in index.js**
 
