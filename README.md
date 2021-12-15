@@ -12,7 +12,7 @@
 3. Save and close
 4. Now open game
 
-# You can change ip in index.js
+**You can change ip in index.js**
 
 # Cape giving
 
