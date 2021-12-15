@@ -7,7 +7,7 @@
 
 1. Install node.js
 2. Open terminal
-3. Type "node ."
+3. Type command "node ." and press Enter
 
 
 # Setup
