@@ -21,11 +21,8 @@
 
 # Cape setup
 
-Just put .png with cape in /capes folder 
-The file name must contain your nick
+Just put the cape in .png file in /capes folder. Cape file must be named as your minecraft account, for example yournickname.png
 
-For example "nodejsorg.png"
-
-Template for cape: "https://i.imgur.com/4gyRWFd.png"
+Cape template: https://i.imgur.com/4gyRWFd.png
 
 # Created by nodejsorg
