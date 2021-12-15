@@ -19,7 +19,7 @@
 
 **You can change ip in index.js**
 
-# Cape giving
+# Cape setup
 
 Just put .png with cape in /capes folder 
 The file name must contain your nick
