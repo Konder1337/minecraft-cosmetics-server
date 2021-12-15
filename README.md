@@ -24,3 +24,5 @@ The file name must contain your nick
 For example "nodejsorg.png"
 
 Template for cape: "https://i.imgur.com/4gyRWFd.png"
+
+# Thanks :)
