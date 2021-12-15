@@ -15,3 +15,12 @@
 4. Now open game
 
 **You can change ip in index.js**
+
+**Cape giving**
+
+Just put .png with cape in /capes folder 
+The file name must contain your nick
+
+For example "nodejsorg.png"
+
+Template for cape: "https://i.imgur.com/4gyRWFd.png"
