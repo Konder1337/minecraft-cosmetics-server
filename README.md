@@ -3,7 +3,7 @@
 
 
 
-# Running
+# Launching
 
 1. Install node.js
 2. Open terminal
